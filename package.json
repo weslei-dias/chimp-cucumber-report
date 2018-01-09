@@ -1,0 +1,31 @@
+{
+  "name": "chimp-cucumber-with-reporter",
+  "version": "1.0.0",
+  "description": "Testes fim a fim com o CHIMP, CUCUMBER, SELENIUM E MOCHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "chimp",
+    "cucumber",
+    "selenium",
+    "mocha"
+  ],
+  "author": "Weslei Dias",
+  "license": "ISC",
+  "dependencies": {
+    "chimp": "*",
+    "cucumber": "*",
+    "body-parser": "*",
+    "browser-sync": "*",
+    "express": "*",
+    "istanbul": "*",
+    "mocha": "*",
+    "mocha-istanbul": "*",
+    "run-sequence": "*",
+    "should": "*",
+    "async": "*",
+    "cucumber-html-reporter": "*"
+  }
+}
