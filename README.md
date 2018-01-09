@@ -7,7 +7,7 @@ Versão recente do Node e Chrome
 
 ## Set up
 
-1. Clona o repositório
+1. Clonar o repositório
 2. Instalar as dependências : `npm i`
 
 ## Executando os testes
